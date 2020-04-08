@@ -1,0 +1,10 @@
+package com;
+
+@SpringBootApplication
+public class testApp
+{
+	public static void main(String[] args)
+	{
+		SpringApplication.run(testApp.class, args);
+	}
+}
