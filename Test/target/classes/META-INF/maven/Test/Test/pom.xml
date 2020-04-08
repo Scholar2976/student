@@ -13,7 +13,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>ScientificManagementES</finalName>
+		<finalName>Test</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
