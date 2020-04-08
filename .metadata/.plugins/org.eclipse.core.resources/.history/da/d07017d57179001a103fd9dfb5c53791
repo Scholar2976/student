@@ -13,11 +13,4 @@ public class HelloController
 		System.out.println("hello");
 		return "hello";
 	}
-	
-	@RequestMapping(value = "/nihao", method = RequestMethod.GET)
-	public String getNihao()
-	{
-		System.out.println("nihao");
-		return "nihao";
-	}
 }
